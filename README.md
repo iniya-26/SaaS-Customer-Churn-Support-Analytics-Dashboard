@@ -69,7 +69,7 @@ Provides insights into first response and ticket resolution performance.
 
 ## 🖼️ Dashboard Preview
 
-![SaaS Subscription Churn Dashboard](Future%20Intern%202%20IMG.png)
+![SaaS Subscription Churn Dashboard](future intern 2img.png)
 
 ## 📝 Conclusion
 
